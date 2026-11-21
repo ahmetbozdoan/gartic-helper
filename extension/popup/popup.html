@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Gartic Helper</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <header class="banner">
+      <h1>Gartic Helper</h1>
+      <p>DRAW, GUESS, WIN</p>
+    </header>
+    <main class="card">
+      <section>
+        <h2>Çizim ara</h2>
+        <form id="search-form" class="search-row">
+          <input id="guide-search" type="text" placeholder="ör. ceket" autocomplete="off" />
+          <button type="submit" class="yellow">Ara</button>
+        </form>
+        <div class="preview">
+          <img id="guide-image" alt="" hidden />
+          <p id="guide-empty">Bir kelime yaz, çizimleri burada gör.</p>
+        </div>
+        <p id="guide-status"></p>
+        <div class="sources">
+          <button type="button" class="source" data-source="sketchy">Sketchy</button>
+          <button type="button" class="source" data-source="quickdraw">Quick Draw</button>
+          <button type="button" class="source" data-source="icon">İkon</button>
+        </div>
+        <button type="button" id="guide-next" class="cyan">Başka çizim</button>
+      </section>
+      <section>
+        <h2>Ayarlar</h2>
+        <form id="settings-form">
+          <label class="checkbox">
+            <input type="checkbox" name="guessEnabled" />
+            Otomatik tahmin önerileri
+          </label>
+          <label class="checkbox">
+            <input type="checkbox" name="guideEnabled" />
+            Sıra bende iken otomatik kılavuz
+          </label>
+          <div class="fields">
+            <label>
+              Aralık (sn)
+              <input type="number" name="guessIntervalSeconds" min="3" max="60" step="1" />
+            </label>
+            <label>
+              Öneri
+              <input type="number" name="maxCandidates" min="1" max="20" step="1" />
+            </label>
+          </div>
+          <button type="submit" class="cyan">Kaydet</button>
+        </form>
+        <div class="health">
+          <button type="button" id="health-check" class="text-button">Modeli kontrol et</button>
+          <span id="health-status"></span>
+        </div>
+      </section>
+    </main>
+    <script src="../shared/settings.js"></script>
+    <script src="../shared/sketch_fit.js"></script>
+    <script src="popup.js"></script>
+  </body>
+</html>

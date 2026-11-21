@@ -1,0 +1,2081 @@
+{
+ "source": "https://storage.googleapis.com/quickdraw_dataset/full/simplified/",
+ "license": "CC BY 4.0",
+ "attribution": "Quick, Draw! dataset, Google",
+ "category_count": 345,
+ "drawings_per_category": 24,
+ "total_file_bytes": 24012946545,
+ "total_downloaded_bytes": 90439680,
+ "categories": {
+  "aircraft carrier": {
+   "file_bytes": 56258150,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "airplane": {
+   "file_bytes": 65843225,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "alarm clock": {
+   "file_bytes": 74531968,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 10
+  },
+  "ambulance": {
+   "file_bytes": 90809434,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 12
+  },
+  "angel": {
+   "file_bytes": 98870491,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "animal migration": {
+   "file_bytes": 70386083,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 12
+  },
+  "ant": {
+   "file_bytes": 72258504,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 11
+  },
+  "anvil": {
+   "file_bytes": 45941769,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "apple": {
+   "file_bytes": 58819094,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "arm": {
+   "file_bytes": 47384612,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "asparagus": {
+   "file_bytes": 79063516,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "axe": {
+   "file_bytes": 40961794,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "backpack": {
+   "file_bytes": 67115372,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "banana": {
+   "file_bytes": 109859026,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "bandage": {
+   "file_bytes": 65531750,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "barn": {
+   "file_bytes": 67936589,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "baseball": {
+   "file_bytes": 64812097,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 11
+  },
+  "baseball bat": {
+   "file_bytes": 42816555,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "basket": {
+   "file_bytes": 66265301,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "basketball": {
+   "file_bytes": 70639732,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "bat": {
+   "file_bytes": 60835460,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "bathtub": {
+   "file_bytes": 75723859,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "beach": {
+   "file_bytes": 59431610,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "bear": {
+   "file_bytes": 81656141,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 6
+  },
+  "beard": {
+   "file_bytes": 131274998,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 20
+  },
+  "bed": {
+   "file_bytes": 45565367,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 6
+  },
+  "bee": {
+   "file_bytes": 80163956,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 14
+  },
+  "belt": {
+   "file_bytes": 79359930,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "bench": {
+   "file_bytes": 41706844,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 10
+  },
+  "bicycle": {
+   "file_bytes": 73100861,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "binoculars": {
+   "file_bytes": 71987810,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "bird": {
+   "file_bytes": 69057809,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "birthday cake": {
+   "file_bytes": 71583740,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "blackberry": {
+   "file_bytes": 136998121,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "blueberry": {
+   "file_bytes": 70689844,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "book": {
+   "file_bytes": 57144299,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "boomerang": {
+   "file_bytes": 48299717,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "bottlecap": {
+   "file_bytes": 72903412,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "bowtie": {
+   "file_bytes": 52445678,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "bracelet": {
+   "file_bytes": 82960612,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "brain": {
+   "file_bytes": 111032491,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "bread": {
+   "file_bytes": 41807428,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "bridge": {
+   "file_bytes": 52638729,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 6
+  },
+  "broccoli": {
+   "file_bytes": 97116591,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "broom": {
+   "file_bytes": 49826353,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "bucket": {
+   "file_bytes": 48257211,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "bulldozer": {
+   "file_bytes": 114921280,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 10
+  },
+  "bus": {
+   "file_bytes": 97756757,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "bush": {
+   "file_bytes": 71966787,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "butterfly": {
+   "file_bytes": 66339543,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "cactus": {
+   "file_bytes": 62056920,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "cake": {
+   "file_bytes": 70368960,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 9
+  },
+  "calculator": {
+   "file_bytes": 71232734,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 11
+  },
+  "calendar": {
+   "file_bytes": 185191250,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "camel": {
+   "file_bytes": 56943704,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "camera": {
+   "file_bytes": 56800500,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 12
+  },
+  "camouflage": {
+   "file_bytes": 152609027,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "campfire": {
+   "file_bytes": 84982420,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "candle": {
+   "file_bytes": 48983152,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "cannon": {
+   "file_bytes": 73766065,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "canoe": {
+   "file_bytes": 36005932,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "car": {
+   "file_bytes": 97287068,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "carrot": {
+   "file_bytes": 56635180,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 13
+  },
+  "castle": {
+   "file_bytes": 50944257,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "cat": {
+   "file_bytes": 76676944,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 9
+  },
+  "ceiling fan": {
+   "file_bytes": 60443873,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "cello": {
+   "file_bytes": 79540712,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 6
+  },
+  "cell phone": {
+   "file_bytes": 56856997,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 6
+  },
+  "chair": {
+   "file_bytes": 77568002,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "chandelier": {
+   "file_bytes": 91281699,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "church": {
+   "file_bytes": 66818148,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "circle": {
+   "file_bytes": 40382508,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "clarinet": {
+   "file_bytes": 55612036,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 15
+  },
+  "clock": {
+   "file_bytes": 53885704,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "cloud": {
+   "file_bytes": 54341414,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "coffee cup": {
+   "file_bytes": 90574368,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "compass": {
+   "file_bytes": 66953875,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "computer": {
+   "file_bytes": 59459189,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "cookie": {
+   "file_bytes": 81251919,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "cooler": {
+   "file_bytes": 123316926,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "couch": {
+   "file_bytes": 56203327,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "cow": {
+   "file_bytes": 96402135,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "crab": {
+   "file_bytes": 80169959,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 6
+  },
+  "crayon": {
+   "file_bytes": 47349998,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "crocodile": {
+   "file_bytes": 59969800,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "crown": {
+   "file_bytes": 50024619,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "cruise ship": {
+   "file_bytes": 53828857,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "cup": {
+   "file_bytes": 52823623,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "diamond": {
+   "file_bytes": 43496174,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "dishwasher": {
+   "file_bytes": 81139345,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "diving board": {
+   "file_bytes": 103218435,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "dog": {
+   "file_bytes": 91290615,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 9
+  },
+  "dolphin": {
+   "file_bytes": 48542046,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "donut": {
+   "file_bytes": 69058325,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "door": {
+   "file_bytes": 38466007,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "dragon": {
+   "file_bytes": 75856863,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "dresser": {
+   "file_bytes": 61313364,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 10
+  },
+  "drill": {
+   "file_bytes": 56526919,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "drums": {
+   "file_bytes": 77111386,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "duck": {
+   "file_bytes": 71226004,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "dumbbell": {
+   "file_bytes": 67186444,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "ear": {
+   "file_bytes": 43584652,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "elbow": {
+   "file_bytes": 42768732,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "elephant": {
+   "file_bytes": 74300304,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "envelope": {
+   "file_bytes": 43761145,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "eraser": {
+   "file_bytes": 46143384,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "eye": {
+   "file_bytes": 67088552,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "eyeglasses": {
+   "file_bytes": 97101574,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "face": {
+   "file_bytes": 93783414,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "fan": {
+   "file_bytes": 91253203,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "feather": {
+   "file_bytes": 49005114,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 6
+  },
+  "fence": {
+   "file_bytes": 50309370,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "finger": {
+   "file_bytes": 52982633,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "fire hydrant": {
+   "file_bytes": 68764121,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "fireplace": {
+   "file_bytes": 93439636,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "firetruck": {
+   "file_bytes": 132914723,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 6
+  },
+  "fish": {
+   "file_bytes": 50947886,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "flamingo": {
+   "file_bytes": 57208546,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "flashlight": {
+   "file_bytes": 104898378,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "flip flops": {
+   "file_bytes": 54467424,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "floor lamp": {
+   "file_bytes": 62361264,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "flower": {
+   "file_bytes": 83263255,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "flying saucer": {
+   "file_bytes": 69204712,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "foot": {
+   "file_bytes": 77101887,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "fork": {
+   "file_bytes": 39479372,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "frog": {
+   "file_bytes": 96993542,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "frying pan": {
+   "file_bytes": 48902346,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "garden": {
+   "file_bytes": 102649499,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "garden hose": {
+   "file_bytes": 54026045,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "giraffe": {
+   "file_bytes": 61097709,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 12
+  },
+  "goatee": {
+   "file_bytes": 130962883,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 12
+  },
+  "golf club": {
+   "file_bytes": 63503776,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "grapes": {
+   "file_bytes": 126868221,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "grass": {
+   "file_bytes": 48854396,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "guitar": {
+   "file_bytes": 66108551,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 12
+  },
+  "hamburger": {
+   "file_bytes": 67878356,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "hammer": {
+   "file_bytes": 45728141,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "hand": {
+   "file_bytes": 128200083,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "harp": {
+   "file_bytes": 132524826,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 6
+  },
+  "hat": {
+   "file_bytes": 77408918,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "headphones": {
+   "file_bytes": 56513287,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "hedgehog": {
+   "file_bytes": 95166046,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 19
+  },
+  "helicopter": {
+   "file_bytes": 89781735,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "helmet": {
+   "file_bytes": 52645951,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "hexagon": {
+   "file_bytes": 40141458,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "hockey puck": {
+   "file_bytes": 101042347,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "hockey stick": {
+   "file_bytes": 41145497,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "horse": {
+   "file_bytes": 104634372,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 11
+  },
+  "hospital": {
+   "file_bytes": 79945674,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "hot air balloon": {
+   "file_bytes": 55938079,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "hot dog": {
+   "file_bytes": 79360314,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "hot tub": {
+   "file_bytes": 68564673,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "hourglass": {
+   "file_bytes": 51602480,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "house": {
+   "file_bytes": 48248751,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "house plant": {
+   "file_bytes": 64019772,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "hurricane": {
+   "file_bytes": 114754241,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "ice cream": {
+   "file_bytes": 49168264,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "jacket": {
+   "file_bytes": 94163765,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "jail": {
+   "file_bytes": 48096583,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "kangaroo": {
+   "file_bytes": 100730568,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "key": {
+   "file_bytes": 68023793,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "keyboard": {
+   "file_bytes": 64319584,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "knee": {
+   "file_bytes": 80969023,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "knife": {
+   "file_bytes": 55314979,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "ladder": {
+   "file_bytes": 39815796,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "lantern": {
+   "file_bytes": 79428300,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "laptop": {
+   "file_bytes": 122642662,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 13
+  },
+  "leaf": {
+   "file_bytes": 51328049,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "leg": {
+   "file_bytes": 33290964,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "light bulb": {
+   "file_bytes": 52230102,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "lighter": {
+   "file_bytes": 48000904,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "lighthouse": {
+   "file_bytes": 78345850,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "lightning": {
+   "file_bytes": 48991306,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "line": {
+   "file_bytes": 26007236,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "lion": {
+   "file_bytes": 94862475,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 6
+  },
+  "lipstick": {
+   "file_bytes": 40859007,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "lobster": {
+   "file_bytes": 90862253,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 15
+  },
+  "lollipop": {
+   "file_bytes": 47901423,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "mailbox": {
+   "file_bytes": 46824956,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "map": {
+   "file_bytes": 62791319,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "marker": {
+   "file_bytes": 109817925,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 9
+  },
+  "matches": {
+   "file_bytes": 58401391,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "megaphone": {
+   "file_bytes": 58906494,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "mermaid": {
+   "file_bytes": 116456459,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 6
+  },
+  "microphone": {
+   "file_bytes": 60541588,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "microwave": {
+   "file_bytes": 57546651,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "monkey": {
+   "file_bytes": 95474637,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 13
+  },
+  "moon": {
+   "file_bytes": 49000097,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "mosquito": {
+   "file_bytes": 68151322,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "motorbike": {
+   "file_bytes": 102307711,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "mountain": {
+   "file_bytes": 36417353,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "mouse": {
+   "file_bytes": 80056603,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "moustache": {
+   "file_bytes": 69615231,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "mouth": {
+   "file_bytes": 55349143,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "mug": {
+   "file_bytes": 66845478,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "mushroom": {
+   "file_bytes": 56061099,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "nail": {
+   "file_bytes": 54561903,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "necklace": {
+   "file_bytes": 60482581,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "nose": {
+   "file_bytes": 63194426,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "ocean": {
+   "file_bytes": 43082891,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "octagon": {
+   "file_bytes": 49792806,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "octopus": {
+   "file_bytes": 83153087,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "onion": {
+   "file_bytes": 74655937,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "oven": {
+   "file_bytes": 95774238,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "owl": {
+   "file_bytes": 113349987,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 9
+  },
+  "paintbrush": {
+   "file_bytes": 101024585,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "paint can": {
+   "file_bytes": 59834836,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "palm tree": {
+   "file_bytes": 61368617,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "panda": {
+   "file_bytes": 101752067,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "pants": {
+   "file_bytes": 48012356,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "paper clip": {
+   "file_bytes": 43601211,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "parachute": {
+   "file_bytes": 62383742,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 9
+  },
+  "parrot": {
+   "file_bytes": 101107854,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "passport": {
+   "file_bytes": 78109533,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 15
+  },
+  "peanut": {
+   "file_bytes": 47643666,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "pear": {
+   "file_bytes": 40446517,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "peas": {
+   "file_bytes": 109004202,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "pencil": {
+   "file_bytes": 42664032,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 6
+  },
+  "penguin": {
+   "file_bytes": 144596107,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "piano": {
+   "file_bytes": 54663907,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "pickup truck": {
+   "file_bytes": 65213289,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "picture frame": {
+   "file_bytes": 52677196,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "pig": {
+   "file_bytes": 130157765,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 11
+  },
+  "pillow": {
+   "file_bytes": 38452807,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "pineapple": {
+   "file_bytes": 66479586,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "pizza": {
+   "file_bytes": 85699170,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 16
+  },
+  "pliers": {
+   "file_bytes": 75835397,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "police car": {
+   "file_bytes": 70643373,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 12
+  },
+  "pond": {
+   "file_bytes": 51345083,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "pool": {
+   "file_bytes": 59364279,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "popsicle": {
+   "file_bytes": 42914978,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "postcard": {
+   "file_bytes": 47448495,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "potato": {
+   "file_bytes": 127661092,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "power outlet": {
+   "file_bytes": 84617837,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 6
+  },
+  "purse": {
+   "file_bytes": 53717129,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "rabbit": {
+   "file_bytes": 99669519,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 9
+  },
+  "raccoon": {
+   "file_bytes": 93702545,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 15
+  },
+  "radio": {
+   "file_bytes": 71904069,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "rain": {
+   "file_bytes": 66413583,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 9
+  },
+  "rainbow": {
+   "file_bytes": 43082127,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "rake": {
+   "file_bytes": 59962895,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "remote control": {
+   "file_bytes": 56987738,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "rhinoceros": {
+   "file_bytes": 96675526,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "rifle": {
+   "file_bytes": 54465930,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "river": {
+   "file_bytes": 46186613,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "roller coaster": {
+   "file_bytes": 68204390,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "rollerskates": {
+   "file_bytes": 69163900,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "sailboat": {
+   "file_bytes": 49781388,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 6
+  },
+  "sandwich": {
+   "file_bytes": 69940987,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "saw": {
+   "file_bytes": 49440506,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "saxophone": {
+   "file_bytes": 55278077,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "school bus": {
+   "file_bytes": 76171623,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "scissors": {
+   "file_bytes": 63076492,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "scorpion": {
+   "file_bytes": 109121324,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 9
+  },
+  "screwdriver": {
+   "file_bytes": 43668855,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "sea turtle": {
+   "file_bytes": 73918823,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "see saw": {
+   "file_bytes": 43830377,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "shark": {
+   "file_bytes": 50908479,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "sheep": {
+   "file_bytes": 84463105,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 6
+  },
+  "shoe": {
+   "file_bytes": 43773600,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "shorts": {
+   "file_bytes": 42757880,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "shovel": {
+   "file_bytes": 40388887,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 6
+  },
+  "sink": {
+   "file_bytes": 116883011,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 11
+  },
+  "skateboard": {
+   "file_bytes": 51837532,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "skull": {
+   "file_bytes": 75969980,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "skyscraper": {
+   "file_bytes": 59262610,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "sleeping bag": {
+   "file_bytes": 53458457,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "smiley face": {
+   "file_bytes": 58050262,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "snail": {
+   "file_bytes": 72960197,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "snake": {
+   "file_bytes": 46534176,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "snorkel": {
+   "file_bytes": 79049061,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "snowflake": {
+   "file_bytes": 48619153,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "snowman": {
+   "file_bytes": 164962516,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "soccer ball": {
+   "file_bytes": 93497311,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "sock": {
+   "file_bytes": 75582817,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "speedboat": {
+   "file_bytes": 83616197,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "spider": {
+   "file_bytes": 120925115,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 11
+  },
+  "spoon": {
+   "file_bytes": 39453390,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "spreadsheet": {
+   "file_bytes": 83272607,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 9
+  },
+  "square": {
+   "file_bytes": 33536363,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "squiggle": {
+   "file_bytes": 46987790,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "squirrel": {
+   "file_bytes": 105534714,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 6
+  },
+  "stairs": {
+   "file_bytes": 33959996,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "star": {
+   "file_bytes": 44981697,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "steak": {
+   "file_bytes": 57837212,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "stereo": {
+   "file_bytes": 69387816,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "stethoscope": {
+   "file_bytes": 73743852,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "stitches": {
+   "file_bytes": 45375378,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "stop sign": {
+   "file_bytes": 59288733,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "stove": {
+   "file_bytes": 81887056,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 10
+  },
+  "strawberry": {
+   "file_bytes": 67649160,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 6
+  },
+  "streetlight": {
+   "file_bytes": 40961810,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "string bean": {
+   "file_bytes": 45254339,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "submarine": {
+   "file_bytes": 55585179,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "suitcase": {
+   "file_bytes": 41518584,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "sun": {
+   "file_bytes": 64861824,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "swan": {
+   "file_bytes": 70583319,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "sweater": {
+   "file_bytes": 46143980,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "swing set": {
+   "file_bytes": 39270641,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "sword": {
+   "file_bytes": 43422667,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "syringe": {
+   "file_bytes": 55360832,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "table": {
+   "file_bytes": 42190139,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "teapot": {
+   "file_bytes": 60513165,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "teddy-bear": {
+   "file_bytes": 134498960,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "telephone": {
+   "file_bytes": 67636586,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "television": {
+   "file_bytes": 56014609,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "tennis racquet": {
+   "file_bytes": 126280969,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "tent": {
+   "file_bytes": 41975356,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "The Eiffel Tower": {
+   "file_bytes": 50706864,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "The Great Wall of China": {
+   "file_bytes": 87923428,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "The Mona Lisa": {
+   "file_bytes": 78792899,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 10
+  },
+  "tiger": {
+   "file_bytes": 90276410,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 13
+  },
+  "toaster": {
+   "file_bytes": 58576938,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "toe": {
+   "file_bytes": 64814834,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "toilet": {
+   "file_bytes": 61804001,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "tooth": {
+   "file_bytes": 46955435,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "toothbrush": {
+   "file_bytes": 48831050,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "toothpaste": {
+   "file_bytes": 50269094,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 6
+  },
+  "tornado": {
+   "file_bytes": 115090326,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "tractor": {
+   "file_bytes": 69319022,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "traffic light": {
+   "file_bytes": 61391034,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "train": {
+   "file_bytes": 84003324,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 13
+  },
+  "tree": {
+   "file_bytes": 80477220,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 3
+  },
+  "triangle": {
+   "file_bytes": 32021810,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "trombone": {
+   "file_bytes": 88828883,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "truck": {
+   "file_bytes": 67938165,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "trumpet": {
+   "file_bytes": 75090650,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "t-shirt": {
+   "file_bytes": 43277813,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  },
+  "umbrella": {
+   "file_bytes": 49165656,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 8
+  },
+  "underwear": {
+   "file_bytes": 41469842,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "van": {
+   "file_bytes": 87119675,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "vase": {
+   "file_bytes": 48578751,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "violin": {
+   "file_bytes": 107782478,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 7
+  },
+  "washing machine": {
+   "file_bytes": 62289451,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 5
+  },
+  "watermelon": {
+   "file_bytes": 64053359,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 9
+  },
+  "waterslide": {
+   "file_bytes": 78841271,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "whale": {
+   "file_bytes": 56563125,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "wheel": {
+   "file_bytes": 78847234,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 13
+  },
+  "windmill": {
+   "file_bytes": 61144257,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 12
+  },
+  "wine bottle": {
+   "file_bytes": 40936198,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "wine glass": {
+   "file_bytes": 50523772,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "wristwatch": {
+   "file_bytes": 83319243,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 4
+  },
+  "yoga": {
+   "file_bytes": 132631970,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 2
+  },
+  "zebra": {
+   "file_bytes": 96569353,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 6
+  },
+  "zigzag": {
+   "file_bytes": 33219169,
+   "downloaded_bytes": 262144,
+   "sampled_drawings": 24,
+   "strokes": 1
+  }
+ }
+}

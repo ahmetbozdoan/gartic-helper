@@ -1,0 +1,527 @@
+{
+  "attribution": "Sketchy Database (Sangkloy et al., Georgia Tech)",
+  "drawings_per_category": 8,
+  "translations": {
+    "airplane": [
+      "uçak"
+    ],
+    "alarm_clock": [
+      "çalar saat",
+      "saat"
+    ],
+    "ant": [
+      "karınca"
+    ],
+    "ape": [
+      "maymun"
+    ],
+    "apple": [
+      "elma"
+    ],
+    "armor": [
+      "zırh"
+    ],
+    "axe": [
+      "balta"
+    ],
+    "banana": [
+      "muz"
+    ],
+    "bat": [
+      "yarasa"
+    ],
+    "bear": [
+      "ayı"
+    ],
+    "bee": [
+      "arı"
+    ],
+    "beetle": [
+      "böcek"
+    ],
+    "bell": [
+      "zil",
+      "çan"
+    ],
+    "bench": [
+      "bank"
+    ],
+    "bicycle": [
+      "bisiklet"
+    ],
+    "blimp": [
+      "zeplin"
+    ],
+    "bread": [
+      "ekmek"
+    ],
+    "butterfly": [
+      "kelebek"
+    ],
+    "cabin": [
+      "külübe",
+      "kulübe"
+    ],
+    "camel": [
+      "deve"
+    ],
+    "candle": [
+      "mum"
+    ],
+    "cannon": [
+      "top"
+    ],
+    "car_(sedan)": [
+      "araba"
+    ],
+    "castle": [
+      "kale",
+      "şato"
+    ],
+    "cat": [
+      "kedi"
+    ],
+    "chair": [
+      "sandalye"
+    ],
+    "chicken": [
+      "tavuk"
+    ],
+    "church": [
+      "kilise"
+    ],
+    "couch": [
+      "kanepe",
+      "koltuk"
+    ],
+    "cow": [
+      "inek"
+    ],
+    "crab": [
+      "yengeç"
+    ],
+    "crocodilian": [
+      "timsah"
+    ],
+    "cup": [
+      "bardak",
+      "fincan"
+    ],
+    "deer": [
+      "geyik"
+    ],
+    "dog": [
+      "köpek"
+    ],
+    "dolphin": [
+      "yunus"
+    ],
+    "door": [
+      "kapı"
+    ],
+    "duck": [
+      "ördek"
+    ],
+    "elephant": [
+      "fil"
+    ],
+    "eyeglasses": [
+      "gözlük"
+    ],
+    "fan": [
+      "vantilatör",
+      "pervane"
+    ],
+    "fish": [
+      "balık"
+    ],
+    "flower": [
+      "çiçek"
+    ],
+    "frog": [
+      "kurbağa"
+    ],
+    "geyser": [
+      "gayzer"
+    ],
+    "giraffe": [
+      "zürafa"
+    ],
+    "guitar": [
+      "gitar"
+    ],
+    "hamburger": [
+      "hamburger"
+    ],
+    "hammer": [
+      "çekiç"
+    ],
+    "harp": [
+      "arp"
+    ],
+    "hat": [
+      "şapka"
+    ],
+    "hedgehog": [
+      "kirpi"
+    ],
+    "helicopter": [
+      "helikopter"
+    ],
+    "hermit_crab": [
+      "yengeç"
+    ],
+    "horse": [
+      "at"
+    ],
+    "hot-air_balloon": [
+      "sıcak hava balonu",
+      "balon"
+    ],
+    "hotdog": [
+      "sosisli",
+      "hot dog"
+    ],
+    "hourglass": [
+      "kum saati"
+    ],
+    "jack-o-lantern": [
+      "balkabağı"
+    ],
+    "jellyfish": [
+      "deniz anası",
+      "denizanası"
+    ],
+    "kangaroo": [
+      "kanguru"
+    ],
+    "knife": [
+      "bıçak"
+    ],
+    "lion": [
+      "aslan"
+    ],
+    "lizard": [
+      "kertenkele"
+    ],
+    "lobster": [
+      "ıstakoz"
+    ],
+    "motorcycle": [
+      "motosiklet",
+      "motor"
+    ],
+    "mouse": [
+      "fare"
+    ],
+    "mushroom": [
+      "mantar"
+    ],
+    "owl": [
+      "baykuş"
+    ],
+    "parrot": [
+      "papağan"
+    ],
+    "pear": [
+      "armut"
+    ],
+    "penguin": [
+      "penguen"
+    ],
+    "piano": [
+      "piyano"
+    ],
+    "pickup_truck": [
+      "kamyonet"
+    ],
+    "pig": [
+      "domuz"
+    ],
+    "pineapple": [
+      "ananas"
+    ],
+    "pistol": [
+      "tabanca",
+      "silah"
+    ],
+    "pizza": [
+      "pizza"
+    ],
+    "pretzel": [
+      "pretzel"
+    ],
+    "rabbit": [
+      "tavşan"
+    ],
+    "raccoon": [
+      "rakun"
+    ],
+    "racket": [
+      "tenis raketi",
+      "raket"
+    ],
+    "ray": [
+      "vatoz"
+    ],
+    "rhinoceros": [
+      "gergedan"
+    ],
+    "rifle": [
+      "tüfek"
+    ],
+    "rocket": [
+      "roket"
+    ],
+    "sailboat": [
+      "yelkenli"
+    ],
+    "saw": [
+      "testere"
+    ],
+    "saxophone": [
+      "saksafon"
+    ],
+    "scissors": [
+      "makas"
+    ],
+    "scorpion": [
+      "akrep"
+    ],
+    "sea_turtle": [
+      "deniz kaplumbağası",
+      "kaplumbağa"
+    ],
+    "seagull": [
+      "martı"
+    ],
+    "seal": [
+      "fok"
+    ],
+    "shark": [
+      "köpekbalığı"
+    ],
+    "sheep": [
+      "koyun"
+    ],
+    "shoe": [
+      "ayakkabı"
+    ],
+    "skyscraper": [
+      "gökdelen"
+    ],
+    "snail": [
+      "salyangoz"
+    ],
+    "snake": [
+      "yılan"
+    ],
+    "songbird": [
+      "kuş"
+    ],
+    "spider": [
+      "örümcek"
+    ],
+    "spoon": [
+      "kaşık"
+    ],
+    "squirrel": [
+      "sincap"
+    ],
+    "starfish": [
+      "denizyıldızı",
+      "deniz yıldızı"
+    ],
+    "strawberry": [
+      "çilek"
+    ],
+    "swan": [
+      "kuğu"
+    ],
+    "sword": [
+      "kılıç"
+    ],
+    "table": [
+      "masa"
+    ],
+    "tank": [
+      "tank"
+    ],
+    "teapot": [
+      "demlik",
+      "çaydanlık"
+    ],
+    "teddy_bear": [
+      "oyuncak ayı"
+    ],
+    "tiger": [
+      "kaplan"
+    ],
+    "tree": [
+      "ağaç"
+    ],
+    "trumpet": [
+      "trompet"
+    ],
+    "turtle": [
+      "deniz kaplumbağası",
+      "kaplumbağa"
+    ],
+    "umbrella": [
+      "şemsiye"
+    ],
+    "violin": [
+      "keman"
+    ],
+    "volcano": [
+      "volkan",
+      "yanardağ"
+    ],
+    "wading_bird": [
+      "kuş"
+    ],
+    "wheelchair": [
+      "tekerlekli sandalye"
+    ],
+    "windmill": [
+      "yel değirmeni"
+    ],
+    "window": [
+      "pencere"
+    ],
+    "wine_bottle": [
+      "şarap şişesi",
+      "şişe"
+    ],
+    "zebra": [
+      "zebra"
+    ]
+  },
+  "drawing_counts": {
+    "airplane": 8,
+    "alarm_clock": 8,
+    "ant": 8,
+    "ape": 8,
+    "apple": 8,
+    "armor": 8,
+    "axe": 8,
+    "banana": 8,
+    "bat": 8,
+    "bear": 8,
+    "bee": 8,
+    "beetle": 8,
+    "bell": 8,
+    "bench": 8,
+    "bicycle": 8,
+    "blimp": 8,
+    "bread": 8,
+    "butterfly": 8,
+    "cabin": 8,
+    "camel": 8,
+    "candle": 8,
+    "cannon": 8,
+    "car_(sedan)": 8,
+    "castle": 8,
+    "cat": 8,
+    "chair": 8,
+    "chicken": 8,
+    "church": 8,
+    "couch": 8,
+    "cow": 8,
+    "crab": 8,
+    "crocodilian": 8,
+    "cup": 8,
+    "deer": 8,
+    "dog": 8,
+    "dolphin": 8,
+    "door": 8,
+    "duck": 8,
+    "elephant": 8,
+    "eyeglasses": 8,
+    "fan": 8,
+    "fish": 8,
+    "flower": 8,
+    "frog": 8,
+    "geyser": 8,
+    "giraffe": 8,
+    "guitar": 8,
+    "hamburger": 8,
+    "hammer": 8,
+    "harp": 8,
+    "hat": 8,
+    "hedgehog": 8,
+    "helicopter": 8,
+    "hermit_crab": 8,
+    "horse": 8,
+    "hot-air_balloon": 8,
+    "hotdog": 8,
+    "hourglass": 8,
+    "jack-o-lantern": 8,
+    "jellyfish": 8,
+    "kangaroo": 8,
+    "knife": 8,
+    "lion": 8,
+    "lizard": 8,
+    "lobster": 8,
+    "motorcycle": 8,
+    "mouse": 8,
+    "mushroom": 8,
+    "owl": 8,
+    "parrot": 8,
+    "pear": 8,
+    "penguin": 8,
+    "piano": 8,
+    "pickup_truck": 8,
+    "pig": 8,
+    "pineapple": 8,
+    "pistol": 8,
+    "pizza": 8,
+    "pretzel": 8,
+    "rabbit": 8,
+    "raccoon": 8,
+    "racket": 8,
+    "ray": 8,
+    "rhinoceros": 8,
+    "rifle": 8,
+    "rocket": 8,
+    "sailboat": 8,
+    "saw": 8,
+    "saxophone": 8,
+    "scissors": 8,
+    "scorpion": 8,
+    "sea_turtle": 8,
+    "seagull": 8,
+    "seal": 8,
+    "shark": 8,
+    "sheep": 8,
+    "shoe": 8,
+    "skyscraper": 8,
+    "snail": 8,
+    "snake": 8,
+    "songbird": 8,
+    "spider": 8,
+    "spoon": 8,
+    "squirrel": 8,
+    "starfish": 8,
+    "strawberry": 8,
+    "swan": 8,
+    "sword": 8,
+    "table": 8,
+    "tank": 8,
+    "teapot": 8,
+    "teddy_bear": 8,
+    "tiger": 8,
+    "tree": 8,
+    "trumpet": 8,
+    "turtle": 8,
+    "umbrella": 8,
+    "violin": 8,
+    "volcano": 8,
+    "wading_bird": 8,
+    "wheelchair": 8,
+    "windmill": 8,
+    "window": 8,
+    "wine_bottle": 8,
+    "zebra": 8
+  }
+}

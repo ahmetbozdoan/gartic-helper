@@ -1,0 +1,51 @@
+{
+  "manifest_version": 3,
+  "name": "Gartic Helper",
+  "version": "0.2.0",
+  "description": "Gartic.io'da sıra sende çizim referansı, tahminde kelime desteği veren yardımcı araç. Eli boş bırakmaz.",
+  "permissions": ["storage"],
+  "host_permissions": [
+    "https://translate.googleapis.com/translate_a/*",
+    "https://api.mymemory.translated.net/get*",
+    "https://api.iconify.design/*",
+    "https://api.datamuse.com/words*",
+    "https://storage.googleapis.com/quickdraw_dataset/*"
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self'"
+  },
+  "background": {
+    "service_worker": "background/service_worker.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://gartic.io/*"],
+      "js": [
+        "shared/settings.js",
+        "shared/sketch_fit.js",
+        "content/selectors.js",
+        "content/shadow_host.js",
+        "content/game_state.js",
+        "content/guide_overlay.js",
+        "content/guess_panel.js",
+        "content/main.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_title": "Gartic Helper",
+    "default_popup": "popup/popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

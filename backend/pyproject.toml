@@ -1,0 +1,62 @@
+[project]
+name = "gartic-helper"
+version = "0.1.0"
+description = "Gartic.io Chrome eklentisi için tahmin ve çizim kılavuzu backend'i"
+authors = [{ name = "ahmet" }]
+dependencies = [
+    "fastapi>=0.115.0",
+    "uvicorn[standard]>=0.30.0",
+    "pydantic-settings>=2.4.0",
+    "numpy>=2.0.0",
+    "pillow>=10.4.0",
+    "scikit-image>=0.24.0",
+    "onnxruntime>=1.19.0",
+]
+requires-python = ">=3.11"
+
+[project.optional-dependencies]
+# Sadece modeli eğitmek için gerekir: rye sync --features training
+training = [
+    "torch>=2.5.0",
+    "onnx>=1.17.0",
+    "onnxscript>=0.1.0",
+]
+# Quick Draw'da olmayan kelimeleri tanımak için çok dilli CLIP: rye sync --features clip
+clip = [
+    "torch>=2.5.0",
+    "open_clip_torch>=3.0.0",
+    "transformers>=4.40.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.rye]
+managed = true
+dev-dependencies = [
+    "pytest>=8.0.0",
+    "pytest-asyncio>=0.24.0",
+    "httpx>=0.27.0",
+    "ruff>=0.6.0",
+]
+
+[tool.rye.scripts]
+dev = "uvicorn gartic_helper.main:app --reload --host 127.0.0.1 --port 8000"
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/gartic_helper"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]

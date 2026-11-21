@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+.ruff_cache/
+dist/
+data/sketchy/
+data/quickdraw/bitmaps/
+data/quickdraw/guides/
+data/quickdraw/evaluation_drawings.json
+models/clip_text_embeddings*.npz
