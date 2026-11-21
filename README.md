@@ -1,5 +1,9 @@
 # Gartic Helper
 
+![Gartic Helper](docs/screenshot.jpg)
+
+Tanıtım videosu: https://www.youtube.com/watch?v=0XsiEH_jV8U
+
 [Gartic.io](https://gartic.io) için Chrome eklentisi. Çizme sırası sendeyken kelimeye uygun bir çizim referansı gösterir; tahmin ederken de ekrandaki çizime ve ipucu kalıbına bakarak kelime önerir.
 
 ## Ne işe yarar?
